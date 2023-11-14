@@ -1,0 +1,12 @@
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.csproj.AssemblyReference.cache
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.FormFilaName.resources
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.Properties.Resources.resources
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.csproj.GenerateResource.cache
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.csproj.CoreCompileInputs.cache
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\bin\Debug\FrmLab1.exe.config
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\bin\Debug\FrmLab1.exe
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\bin\Debug\FrmLab1.pdb
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.exe
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.pdb
+C:\Users\Suarez.253740\source\repos\FrmLab1\FrmLab1\obj\Debug\FrmLab1.FrmRegistration.resources
